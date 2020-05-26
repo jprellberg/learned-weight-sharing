@@ -2,7 +2,11 @@
 
 This is the code release for the paper: Prellberg J., Oliver K. (2020)
 Learned Weight Sharing for Deep Multi-Task Learning by Natural Evolution
-Strategy and Stochastic Gradient Descent. Unpublished.
+Strategy and Stochastic Gradient Descent. In 2020 International Joint
+Conference on Neural Networks, IJCNN 2020, Glasgow, UK, July 19-24, 2020.
+IEEE, 2020. In print
+
+https://arxiv.org/abs/2003.10159
 
 ## Usage
 
